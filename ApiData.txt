@@ -1,0 +1,11 @@
+
+Weather Api : 
+https://api.openweathermap.org/data/2.5/weather?lat=21.0927616&lon=79.0953984&appid=654116edf8ac1369f813441e20484e3d&units=metric
+
+
+
+
+News Api
+
+Api Key : 
+b73ca9b25caf4bdabc405d8c54f5e62d
